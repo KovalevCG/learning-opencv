@@ -11,5 +11,5 @@ Learning OpenCV. Simple small projects.
 -|-
 >Face detection with Haar-cascade Detection in OpenCV (face-detection.py)
 
-![](https://github.com/KovalevCG/learning-opencv/blob/main/gifs/shape_detection_01.jpg)|![](https://github.com/KovalevCG/learning-opencv/blob/main/gifs/shape_detection_02.jpg)
+![](https://github.com/KovalevCG/learning-opencv/blob/main/gifs/face-detection-02.jpg)|![](https://github.com/KovalevCG/learning-opencv/blob/main/gifs/face-detection-03.jpg)
 -|-
