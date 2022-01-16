@@ -32,7 +32,7 @@ def getContours(img):
             # cv2.putText(imgContours, obj_type,
             #             (x+5, y-22+5), cv2.FONT_HERSHEY_DUPLEX, 1.0, (255, 255, 255), 5)
             cv2.putText(imgContours, obj_type,
-                        (x+5, y-22+5), cv2.FONT_HERSHEY_DUPLEX, 1.0, (0, 0, 0), 2)
+                        (x+5, y-22+5), cv2.FONT_HERSHEY_DUPLEX, 1.5, (0, 0, 0), 2)
 
 path = 'assets/shapes2.png'
 img = cv2.imread(path)
