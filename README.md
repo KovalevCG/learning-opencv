@@ -5,3 +5,7 @@ Learning OpenCV. Simple small projects.
 
 ![](https://github.com/KovalevCG/learning-opencv/blob/main/gifs/Mask_V1_01.gif)|![](https://github.com/KovalevCG/learning-opencv/blob/main/gifs/Mask_V2_01.gif)
 -|-
+>Shape detection (shape-detection.py)
+
+![](https://github.com/KovalevCG/learning-opencv/blob/main/gifs/shape_detection_01.jpg)|![](https://github.com/KovalevCG/learning-opencv/blob/main/gifs/shape_detection_02.jpg)
+-|-
