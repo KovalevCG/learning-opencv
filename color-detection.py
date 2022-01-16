@@ -19,7 +19,7 @@ cv2.createTrackbar("Sat Max", "Settings", 255, 255, empty)
 cv2.createTrackbar("Val Min", "Settings", 0, 255, empty)
 cv2.createTrackbar("Val Max", "Settings", 255, 255, empty)
 
-# Downscaling Image
+# Downscaling Original Image
 x = int(img.shape[0]/3)
 y = int(img.shape[1]/3)
 img = cv2.resize(img, (y ,x))
