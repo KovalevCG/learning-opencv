@@ -1,5 +1,5 @@
 # learning-opencv
-Learning OpenCV. Simple small projects.
+Learning OpenCV. Small projects based on Youtube tutorials.
 
 >Masks creation using HSV color model (color-detection.py)
 
