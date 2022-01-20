@@ -18,10 +18,10 @@ def find_color(img):
         lower = np.array([h_min, s_min, v_min])
         upper = np.array([h_max, s_max, v_max])
     else:
-        lower = np.array(color_masks[0][0:3])
-        upper = np.array(color_masks[0][3:6])
+        lower = np.array(color_masks[2][0:3])
+        upper = np.array(color_masks[2][3:6])
     mask = cv2.inRange(img_hsv, lower, upper)
-    # cv2.imshow("img", mask)
+    cv2.imshow("img", mask)
     x, y = get_contours(mask)
 
     if (x != 0) and (y != 0):
@@ -46,9 +46,12 @@ def get_contours(img):
 
 
 color_masks = [[72, 39, 196, 93, 145, 255],
-               [72, 93, 39, 145, 196, 255]]
+               [72, 93, 39, 145, 196, 255],
+               [35, 0, 111, 95, 164, 255]]
 
+# Sliders ON/OFF
 mask_test = False
+# Don't touch
 paint_bool = False
 
 # Trackbars
@@ -68,6 +71,7 @@ img_canvas = np.zeros((480, 640, 3), np.uint8)
 
 while True:
     _, img = cap.read()
+    img = cv2.flip(img, 1)
     img_result = img.copy()
     find_color(img)
     img_result = cv2.bitwise_or(img_result, img_canvas)
