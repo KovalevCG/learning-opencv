@@ -24,6 +24,7 @@ x = int(img.shape[0]/3)
 y = int(img.shape[1]/3)
 img = cv2.resize(img, (y ,x))
 
+# Main cycle
 while True:
     imgHSV = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
     h_min = cv2.getTrackbarPos("Hue Min", "Settings")
