@@ -1,11 +1,11 @@
 import cv2
 
 # Load the cascade
-fname = r'Z:/personal/-code-/learning-opencv/venv/Lib/site-packages/cv2/data/haarcascade_frontalface_default.xml'
+fname = r'Z:/repo/learning-opencv/venv/Lib/site-packages/cv2/data/haarcascade_frontalface_default.xml'
 face_cascade = cv2.CascadeClassifier(fname)
 
 # Assign webcam
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(0, cv2.CAP_DSHOW)
 
 while True:
     # Read the frame
