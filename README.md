@@ -11,5 +11,10 @@ Small projects mostly based on Youtube tutorials.
 -|-
 >Face detection with Haar-cascade Detection in OpenCV (face-detection.py, face-detection-webcam.py)
 
-![](https://github.com/KovalevCG/learning-opencv/blob/main/gifs/face-detection-02-2.jpg)|![](https://github.com/KovalevCG/learning-opencv/blob/main/gifs/face_detection_02.gif)
+![](https://github.com/KovalevCG/learning-opencv/blob/main/gifs/face-detection-02-2.jpg)|![](https://github.com/KovalevCG/learning-opencv/blob/main/gifs/face-detection_03.gif)
+-|-
+
+>OpenCV Painter (paint-pen.py)
+
+<img src="https://github.com/KovalevCG/learning-opencv/blob/main/gifs/pen_painter_03.gif" width="400">|![](https://github.com/KovalevCG/learning-opencv/blob/main/gifs/pen-painter_02.jpg)
 -|-
