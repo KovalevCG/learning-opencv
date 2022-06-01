@@ -19,3 +19,7 @@ Small projects mostly based on Youtube tutorials.
 <img src="https://github.com/KovalevCG/learning-opencv/blob/main/gifs/pen_painter_03.gif" width="400">|<img src="https://github.com/KovalevCG/learning-opencv/blob/main/gifs/image-editing_01.gif" width="400">
 -|-
 
+>VR Hand in Unity (https://github.com/KovalevCG/opencv-hand-tracking-unity)
+
+<img src="https://github.com/KovalevCG/opencv-hand-tracking-unity/blob/master/gifs/hand-in-vr_02.gif" width="850">
+
