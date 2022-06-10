@@ -36,6 +36,7 @@ data = np.float32(data)
 
 # Main Loop
 while True:
+
     # If amount of colors was changed
     if trackbar_changed:
         number_clusters = cv2.getTrackbarPos("Number", "Settings")
