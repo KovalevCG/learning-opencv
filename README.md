@@ -10,6 +10,13 @@ Small projects mostly based on Youtube tutorials.
 
 
 
+>Dominant Colors of Image (dominant-colors.py)
+
+<img src="https://github.com/KovalevCG/learning-opencv/blob/main/gifs/dominant-colors_01.jpg" width="400">|<img src="https://github.com/KovalevCG/learning-opencv/blob/main/gifs/dominant-colors_01.gif" width="400">
+-|-
+
+
+
 >Shape detection (shape-detection.py)
 
 <img src="https://github.com/KovalevCG/learning-opencv/blob/main/assets/shapes3.png" width="400">|<img src="https://github.com/KovalevCG/learning-opencv/blob/main/gifs/shape_detection_01.jpg" width="400">
@@ -34,13 +41,6 @@ Small projects mostly based on Youtube tutorials.
 >VR Hand in Unity (https://github.com/KovalevCG/opencv-hand-tracking-unity)
 
 <img src="https://github.com/KovalevCG/opencv-hand-tracking-unity/blob/master/gifs/hand-in-vr_02.gif" width="850">
-
-
-
->Dominant Colors of Image (dominant-colors.py)
-
-<img src="https://github.com/KovalevCG/learning-opencv/blob/main/gifs/dominant-colors_01.jpg" width="400">|<img src="https://github.com/KovalevCG/learning-opencv/blob/main/gifs/dominant-colors_01.gif" width="400">
--|-
 
 
 
