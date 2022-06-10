@@ -41,3 +41,10 @@ Small projects mostly based on Youtube tutorials.
 
 <img src="https://github.com/KovalevCG/learning-opencv/blob/main/gifs/dominant-colors_01.jpg" width="400">|<img src="https://github.com/KovalevCG/learning-opencv/blob/main/gifs/dominant-colors_01.gif" width="400">
 -|-
+
+
+
+>Color Correction (color-correction.py)
+
+<img src="https://github.com/KovalevCG/learning-opencv/blob/main/gifs/color-correction_03.gif">|<img src="https://github.com/KovalevCG/learning-opencv/blob/main/gifs/color-correction_02.gif">
+-|-
